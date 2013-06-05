@@ -1,0 +1,2 @@
+objet:sphere RGB:(255,255,255) pos:(0,400,0) rot:(0,40,40) size:400
+objet:plan RGB:(255,255,255) pos:(0,0,0) rot:(0,0,0) size:0
